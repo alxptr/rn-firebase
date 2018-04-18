@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "591914181109",
+    "firebase_url": "https://newlocalproject-28656.firebaseio.com",
+    "project_id": "newlocalproject-28656",
+    "storage_bucket": "newlocalproject-28656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591914181109:android:8d4e41f333ad27fa",
+        "android_client_info": {
+          "package_name": "com.invertase.rnfirebasestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591914181109-ks8rlc2gi41oelj0tonhqfai82icfdmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxHfDynslsvn9yHsiXwX6ibVCH5irtAsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591914181109:android:6659309344289b6f",
+        "android_client_info": {
+          "package_name": "com.myweedstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591914181109-ks8rlc2gi41oelj0tonhqfai82icfdmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxHfDynslsvn9yHsiXwX6ibVCH5irtAsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591914181109:android:afe34db85fc840d0",
+        "android_client_info": {
+          "package_name": "com.walliwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591914181109-ks8rlc2gi41oelj0tonhqfai82icfdmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxHfDynslsvn9yHsiXwX6ibVCH5irtAsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
