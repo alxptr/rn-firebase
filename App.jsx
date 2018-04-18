@@ -60,9 +60,8 @@ export default class App extends React.Component {
         permissionDialogTitle={'Permission to use camera'}
         permissionDialogMessage={'We need your permission to use your camera phone'}
       >
-        <Text style={styles.flipText}>{this.state.barcode}</Text>
-        <Text style={styles.flipText}>{this.state.message}</Text>
-        <Text style={styles.flipText}>{this.state.token}</Text>
+        <Text style={styles.flipText}>barcode: {this.state.barcode}</Text>
+        <Text style={styles.flipText}>firebase token: {this.state.token}</Text>
       </RNCamera>
     );
   }
