@@ -22,7 +22,15 @@ export default class App extends React.Component {
 
   componentDidMount() {
     firebase.messaging().getToken().then((token) => {
-      this.setState({token: token})
+      if (token) {
+        this.setState({token: token})
+      }
+    });
+
+    firebase.messaging().onTokenRefresh((token) => {
+      if (token) {
+        this.setState({token: token})
+      }
     });
   }
 
